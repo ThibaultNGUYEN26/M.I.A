@@ -1,3 +1,0 @@
-win + r
-shell:startup
-copier/coller mia_launcher.bat de /mia dans shell:startup
